@@ -2,6 +2,7 @@ package com.bolitik.id.entity;
 
 public class Product {
 
+    
     private String name;
     private int price;
 
